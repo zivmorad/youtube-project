@@ -1,0 +1,15 @@
+.item{
+ display: flex !important;
+ align-items: center !important;
+ cursor: pointer;
+ border: 2px solid rgb(216, 212, 212);
+ margin: 5px;
+ padding: 5px;
+}
+.item:hover{
+    background:rgb(238, 238, 238)
+}
+
+.item img{
+    max-width: 180px;
+}

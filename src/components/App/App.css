@@ -1,0 +1,13 @@
+.container{
+    margin-left: 150px;
+    width: 80%;
+}
+.row{
+display: grid;
+}
+
+.col2{
+    grid-area: 1 / col4-start / last-line / 6;
+    width: 100%;
+    float: right;
+}
